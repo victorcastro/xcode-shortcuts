@@ -7,16 +7,16 @@ Esta guía agrupa los atajos más útiles de Xcode organizados por **categorías
 
 ## 📚 Índice
 
-1. [Edición y Formato](#edición-y-formato)  
-2. [Refactorización](#refactorización)  
-3. [Búsqueda y Navegación](#búsqueda-y-navegación)  
-4. [Multicursor y Selección](#multicursor-y-selección)  
-5. [Depuración y Breakpoints](#depuración-y-breakpoints)  
-6. [Pestañas y Paneles](#pestañas-y-paneles)  
+1. [Edición y Formato](#edicion-y-formato)  
+2. [Refactorización](#refactorizacion)  
+3. [Búsqueda y Navegación](#busqueda-y-navegacion)  
+4. [Multicursor y Selección](#multicursor-y-seleccion)  
+5. [Depuración y Breakpoints](#depuracion-y-breakpoints)  
+6. [Pestañas y Paneles](#pestanas-y-paneles)  
 7. [Archivos y Proyecto](#archivos-y-proyecto)  
-8. [Compilación y Limpieza](#compilación-y-limpieza)  
-9. [Documentación](#documentación)  
-10. [Esquemas y Herramientas](#esquemas-y-herramientas)  
+8. [Compilación y Limpieza](#compilacion-y-limpieza)  
+9. [Documentación](#documentacion)  
+10. [Esquemas y Herramientas](#esquemas-y-herramientas)
 
 ---
 
