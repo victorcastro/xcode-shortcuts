@@ -7,7 +7,7 @@ Esta guía agrupa los atajos más útiles de Xcode organizados por **categorías
 
 ## 📚 Índice
 
-1. [Edición y Formato](#edicion-y-formato)  
+1. [Edición y Formato](#%EF%B8%8F-edición-y-formato)  
 2. [Refactorización](#refactorizacion)  
 3. [Búsqueda y Navegación](#busqueda-y-navegacion)  
 4. [Multicursor y Selección](#multicursor-y-seleccion)  
