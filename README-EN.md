@@ -7,16 +7,16 @@ This guide organizes the most useful Xcode shortcuts into **categories**, making
 
 ## 📚 Table of Contents
 
-1. [Editing & Formatting](#editing--formatting)  
-2. [Refactoring](#refactoring)  
-3. [Search & Navigation](#search--navigation)  
-4. [Multicursor & Selection](#multicursor--selection)  
-5. [Debugging & Breakpoints](#debugging--breakpoints)  
-6. [Tabs & Panels](#tabs--panels)  
-7. [Files & Project](#files--project)  
-8. [Build & Clean](#build--clean)  
-9. [Documentation](#documentation)  
-10. [Schemes & Tools](#schemes--tools)
+1. [Editing & Formatting](#%EF%B8%8F-editing--formatting)
+2. [Refactoring](#-refactoring)
+3. [Search & Navigation](#-search--navigation)
+4. [Multicursor & Selection](#%EF%B8%8F-multicursor--selection)
+5. [Debugging & Breakpoints](#-debugging--breakpoints)
+6. [Tabs & Panels](#-tabs--panels)
+7. [Files & Project](#-files--project)
+8. [Build & Clean](#-build--clean)
+9. [Documentation](#-documentation)
+10. [Schemes & Tools](#%EF%B8%8F-schemes--tools)
 
 ---
 
